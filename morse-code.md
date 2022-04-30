@@ -16,6 +16,13 @@ We have to write down the dot and the dashes from the file <a href ="https://art
 ``` sh
 .-- .... ....- --... / .... ....- --... .... / ----. ----- -.. / .-- ..--- ----- ..- ----. .... --...
 ```
-By analysing it using the   <a href= "https://modernout.com/pages/morse-code-chart">morsce code table.</a>.
+By analysing it using the   <a href= "https://modernout.com/pages/morse-code-chart">morsce code table.</a>
+```sh
+wh47 h47h 90d w20u9h7
+```
+The final flag is 
+```sh
 
+picoCTF{wh47_h47h_90d_w20u9h7}
+```
 
