@@ -26,6 +26,7 @@ nmqimuyekl ey.
 Ytm jcvl eq: ieuwUYJ{5FO5717F710K_3A0CF710K_357OJ9JJ}
 ```
 
+<span style="color: green"> VOUHMJLTESZCDKWIXNQYFAPGBR is substituted with ABCDEFGHIJKLMNOPQRSTUVWXYZ.</span>
 VOUHMJLTESZCDKWIXNQYFAPGBR is substituted with ABCDEFGHIJKLMNOPQRSTUVWXYZ.
 
 Here we have just substituted the uppercase characters.
