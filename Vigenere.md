@@ -6,7 +6,7 @@
 Can you decrypt this message? Decrypt this message using this key "CYLAB".
 
 
-### Hint:/home/oem/Pictures/cyberchef.png
+### Hint:
 
 https://en.wikipedia.org/wiki/Vigen%C3%A8re_ciphert :
 
