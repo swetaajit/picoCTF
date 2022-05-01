@@ -133,7 +133,7 @@
   </g>
 </svg>
 ```
-These few characters looked like a particular flag content ```sh    
+These few characters looked like a particular flag content -```sh    
                                                               id="tspan3764">F { 3 n h 4 n </tspan><tspan
                                                                ```
 
@@ -141,7 +141,7 @@ These few characters looked like a particular flag content ```sh
 
 
  and  ``` sh 
-         id="tspan3752">c 3 d _ d 0 a 7 5 7 b f }</tspan></text>
+         id="tspan3752">c 3 d _ d 0 a 7 5 7 b f }</tspan></text>.
          ```
          This can be made into a flag format {3nh4nc3d_6783cc46}.
          
