@@ -7,8 +7,8 @@
   
   ### Solution
   One can view the contents of the flag by the command ```sh
-                                                          $ strings drawing.flag.svg
-                                                          `````
+                                                          strings drawing.flag.svg                                                           
+                                                          ```
   ```sh                                                        
   
   <?xml version="1.0" encoding="UTF-8" standalone="no"?>
@@ -133,10 +133,11 @@
   </g>
 </svg>
 ```
-These few characters looked like a particular flag content ```sh                                             
-
-                                                               id="tspan3764">F { 3 n h 4 n </tspan><tspan
+These few characters looked like a particular flag content ```sh    
+                                                              id="tspan3764">F { 3 n h 4 n </tspan><tspan
                                                                ```
+
+                                                          
 
 
  and  ``` sh 
